@@ -12,7 +12,7 @@ namespace BuildSample
         {
             int x = 10;
             System.Console.WriteLine(x);
-            int milliseconds = 20000;
+            int milliseconds = 10000;
             System.Threading.Thread.Sleep(milliseconds);
         }
     }
