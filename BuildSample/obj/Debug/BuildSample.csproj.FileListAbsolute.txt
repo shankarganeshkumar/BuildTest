@@ -1,1 +1,6 @@
 C:\Repos\BuildSample\BuildSample\bin\Debug\BuildSample.exe.config
+C:\Repos\BuildSample\BuildSample\bin\Debug\BuildSample.exe
+C:\Repos\BuildSample\BuildSample\bin\Debug\BuildSample.pdb
+C:\Repos\BuildSample\BuildSample\obj\Debug\BuildSample.csprojResolveAssemblyReference.cache
+C:\Repos\BuildSample\BuildSample\obj\Debug\BuildSample.exe
+C:\Repos\BuildSample\BuildSample\obj\Debug\BuildSample.pdb
